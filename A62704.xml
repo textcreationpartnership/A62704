@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Highness Richard Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions and territories thereunto belonging the humble representation and petition of the General Council of the Officers of the Armies of England, Scotland, and Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62704</idno>
+            <idno type="STC">Wing T1367</idno>
+            <idno type="STC">ESTC R4941</idno>
+            <idno type="EEBO-CITATION">11957892</idno>
+            <idno type="OCLC">ocm 11957892</idno>
+            <idno type="VID">51579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 518:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Highness Richard Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions and territories thereunto belonging the humble representation and petition of the General Council of the Officers of the Armies of England, Scotland, and Ireland.</title>
+               </titleStmt>
+               <extent>[2], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51579:1"/>
+            <!-- PDF PAGE 66 -->
+            <pb facs="tcp:51579:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 66 -->
+            <p>To His Highneſs RICHARD Lord Protector OF THE COMMON-WEALTH OF <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territo<g ref="char:EOLhyphen"/>ries thereunto belonging.</p>
+            <p>THE HUMBLE REPRESENTATION AND Petition of the General Coun<g ref="char:EOLhyphen"/>cil of the Officers of the Armies of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Wedneſday 6th. April 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the General Council of the Officers of the Armies of <hi>England, Scotland</hi> and <hi>Ireland,</hi> That this Repreſentation and Petition be forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>Philip Carterred
+Judge Advocate.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> one of His Highneſs the Lord Protectors Printers, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51579:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <pb n="1" facs="tcp:51579:2"/>
+            <!-- PDF PAGE 67 -->
+            <head>To His Highneſs <hi>Richard</hi> Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereun<g ref="char:EOLhyphen"/>to belonging.</head>
+            <head type="sub">The humble Repreſentation and Petition of the General Council of the Officers of the Armies of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving as Members of the Army often Solemnly declared not with<g ref="char:EOLhyphen"/>out appeales to God for our ſince<g ref="char:EOLhyphen"/>rity therein, That We did ingage in Judgement and Conſcience for the juſt Rights and Liberties, Civil and Religi<g ref="char:EOLhyphen"/>ous of our Countreys, and not as a Mercenary Army,</p>
+            <p>Had we not been very jealous of our re<g ref="char:EOLhyphen"/>putation, and Carefull to avoid Suſpicion, which our many Adverſaries have endeavoured to bring upon us, as if we were apt to intermed<g ref="char:EOLhyphen"/>dle with matters not relating to an Army; We had before this time made joynt and Pub<g ref="char:EOLhyphen"/>lique application to your Highneſs, therein ſet<g ref="char:EOLhyphen"/>ting
+<pb n="2" facs="tcp:51579:3"/>
+               <!-- PDF PAGE 68 -->forth what imediately concerns our ſelves, with reſpect to the crying neceſſities of the Ar<g ref="char:EOLhyphen"/>mies, for want of pay; And withal to have ma<g ref="char:EOLhyphen"/>nifeſted our fervent deſires, that our <hi>good Cauſe</hi> in the behalf of theſe Nations, might have recei<g ref="char:EOLhyphen"/>ved renewed ſtrength and Countinance from Your Highneſs and this preſent Parliament.</p>
+            <p>But Your Highneſs is our witneſs how peace<g ref="char:EOLhyphen"/>ably, how ſilently we have ſuffered as to what concerns the Armies wants; Or what might otherwiſe become us in the behalf of theſe Nati<g ref="char:EOLhyphen"/>ons to have laid before Your Highneſs.</p>
+            <p>Yea we have been ſilent ſo long, that we fear it has been a diſadvantage to our <hi>Cauſe,</hi> and bred (though we hope groundleſs) jealouſies of us in many of our friends: And until we, and all that is dear to us, the Intereſt we have ſo long contend<g ref="char:EOLhyphen"/>ed for, is in danger to be loſt; to the utter ruine and ſubverſion of Your Highneſs, together with the peace and welfare of theſe Nations.</p>
+            <p>But being now, under the fenſe of imminent dangers and neceſſities, awakened, and alſo finding that Your Highneſs, by the ſitting of this Parliament, is in a capacity to provide againſt the approaching danger; and upon conſultation with each other, and communicating what has come to our knowledge of publick concern<g ref="char:EOLhyphen"/>ment, and the preſent ſtate of the Armies, ha<g ref="char:EOLhyphen"/>ving unanimouſly agreed it to be our duty to God, to Your Highneſs, and our fidelity to our Countrey, Submiſſively, and as becomes us in our Stations, to make our application to Your Highneſs:</p>
+            <p>
+               <pb n="3" facs="tcp:51579:3"/>
+               <!-- PDF PAGE 68 -->
+We hope it will not be interpreted an interru<g ref="char:EOLhyphen"/>ption to any other publick Concernments under conſideration; and do therefore in a deep ſence of Miſery and Judgement threatned, and pur<g ref="char:EOLhyphen"/>ſuance of our Duty, in all humility, Repreſent,</p>
+            <p>That the <hi>good old Cauſe</hi> againſt Tyranny and intolerable oppreſſion in matters <hi>Civil</hi> and <hi>Re<g ref="char:EOLhyphen"/>ligious,</hi> whereupon we firſt ingaged, and unto which the Lord hath in ſuch a continued Series of Providence given ſo ſignal a Teſtimony, and for the carrying on whereof there hath been ſuch a plentiful powring forth of <hi>Treaſure, Prayers, Tears,</hi> and <hi>Blood</hi> during the late War (in the difficulties and dangers whereof, we alſo, the living Monuments of Patience, and Mercy, have had our ſhares) is very frequently and Pub<g ref="char:EOLhyphen"/>lickly derided and reproached, and the inpla<g ref="char:EOLhyphen"/>cable Adverſaries thereof promiſe themſelves to be ſo far in poſſeſſion and Maſters thereof, that they begin to appear every where viſible a<g ref="char:EOLhyphen"/>mongſt us, and to mix themſelves in the midſts of thoſe places where that Cauſe was wont to receive its chiefeſt Countinance and ſhelter.</p>
+            <p>Many old Cavaliers and Officers under the late King and <hi>Charls Stewart</hi> his Son, having lately tranſported themſelves out of <hi>Flanders</hi> and other places into this Nation, have their frequent meetings in and neer the City of <hi>London.</hi>
+            </p>
+            <p>Thoſe who alſo ſerved under the late King, and ſuch as have alwayes ſhewed themſelves diſ-affected to that <hi>famous long Parliament,</hi> and
+<pb n="4" facs="tcp:51579:4"/>
+               <!-- PDF PAGE 69 -->ever ſince to the Cauſe and interreſt of this <hi>Com<g ref="char:EOLhyphen"/>monwealth,</hi> and ſeek the ruine of this preſent Government, have their frequent meetings in ſe<g ref="char:EOLhyphen"/>veral Countries of this Nation; grow very in<g ref="char:EOLhyphen"/>ſolent, offer many affronts and aſſaults to ſuch as have been, and are faithful ſervants to this Commonwealth.</p>
+            <p>Papers are ſcattered up and down, contein<g ref="char:EOLhyphen"/>ing Liſts of Eminent Aſſertors of the publick Interreſt of this Nation, ſuch as were the actual Tryers of the late King, and by whom he was brought to condign puniſhment, as if they were deſigned and marked out for deſtruction.</p>
+            <p>Encouragement is taken for the proſecution of ſeveral Well affected perſons, and Suites commenced againſt them at the Common Law, for matters by them tranſacted as Souldiers, by command from their Superiours, in order to the ſafety and ſecurity of the Nations.</p>
+            <p>The famous Actions of the Parliament, His late Highneſs, of bleſſed memory, and the Army in and ſince the year 1648. vilified and evil ſpo<g ref="char:EOLhyphen"/>ken of; particular perſons frequently daring to ſpeak againſt the Authority of Parliaments, and to call all their proceedings, and of ſuch as act<g ref="char:EOLhyphen"/>ed in obedience to them, illegal and unwarran<g ref="char:EOLhyphen"/>table.</p>
+            <p>So that upon the whole we evidently ſee there is but even a ſtep betwixt the Publick Cauſe of theſe Nations, wherein we have been ſo ſignal<g ref="char:EOLhyphen"/>ly bleſſed and owned of God and good men, and the death thereof; and that it is nor likely to
+<pb n="5" facs="tcp:51579:4"/>
+               <!-- PDF PAGE 69 -->expire without a ſure preſage of the ſad Funerals of the deer and never to be enough valued Peace of theſe our native Countries.</p>
+            <p>And that our enemies may want nothing that can ſtrengthen their hopes, it ſo happens, that the Armies are already under great extremities for want of Pay, and notwithſtanding their con<g ref="char:EOLhyphen"/>dition hath been repreſented, yet no effectual remedy hath been applied; our Enemies may hope diſcontent will be the more eaſily raiſed, if the Armies ſhould unavoidably be neceſſitated upon Free Quarter.</p>
+            <p>Diviſions in the Armies have been attempt<g ref="char:EOLhyphen"/>ed and well neer effected, when their wants have not been like to what is now upon them: The Officers purſes being generally emptied by their Loanes to the Souldiers, their credits to the Victulars extended to the utmoſt; The poor Souldier ſometimes inforced to ſell his expected Pay much under the value thereof, for ready money to buy bread; and the great and unu<g ref="char:EOLhyphen"/>ſual Mortality of Horſes in the Army (inſo<g ref="char:EOLhyphen"/>much that many Troopers have been forced to buy twice over) having brought the Horſe of this Army under exceeding great extremi<g ref="char:EOLhyphen"/>ties:</p>
+            <p>And as by theſe means the adverſaries to the Peace, Settlement, Proſperity, <hi>Civil</hi> and <hi>Re<g ref="char:EOLhyphen"/>ligious</hi> Liberty of theſe Nations, are grown ve<g ref="char:EOLhyphen"/>ry confident and high in their expectations and attempts (as we are perſwaded ready to betake themſelves to their Armes again) ſo likewiſe
+<pb n="6" facs="tcp:51579:5"/>
+               <!-- PDF PAGE 70 -->many friends thereof are exceedingly diſcoura<g ref="char:EOLhyphen"/>ged.</p>
+            <p>We cannot but bewail our own great failings and turnings aſide, and wherein ſoever we have back-ſliden we have cauſe, and deſire to take ſhame to our ſelves.</p>
+            <p>And do therefore for the ſtrengthning of Your Highneſs and Parliament; For the Revi<g ref="char:EOLhyphen"/>ving the hearts of our Faithful friends, and the vindication of our own integrity againſt all cen<g ref="char:EOLhyphen"/>ſures and jealouſies, aſſert;</p>
+            <p>That we are now, as ever, equally indeared to our <hi>good old Cauſe,</hi> and utter Enemies to all Ty<g ref="char:EOLhyphen"/>ranny, Oppreſſion, and Diſturbance of the Publick Peace under what pretences ſoever: And through the Lords aſſiſtance reſolved, whileſt our lives and preſent capacities are con<g ref="char:EOLhyphen"/>tinued to us, to ſtand by and aſſiſt Your High<g ref="char:EOLhyphen"/>neſs and Parliament, in the plucking the wicked out of their places whereſoever they may be diſ<g ref="char:EOLhyphen"/>covered, either amongſt our ſelves, or any o<g ref="char:EOLhyphen"/>ther places of truſt; The Reformation of Law and Manners ſo frequently declared for, and ſo earneſtly expected by all ſober unbiaſſed men. Opening the courſe of Juſtice, and Bowels of Mercy, incouraging the wayes of holineſs, and putting a ſtop to the inundation of Malignancy and Profaneneſs.</p>
+            <p>All which, as it hath been in Duty and Faith<g ref="char:EOLhyphen"/>fulneſs by us repreſented, ſo we humbly pray, That Your Highneſs taking into Your ſerious conſideration, the ſad condition of the Armies,
+<pb n="7" facs="tcp:51579:5"/>
+               <!-- PDF PAGE 70 -->and danger of the Nations, both from the great want of Pay, and Activity of our common E<g ref="char:EOLhyphen"/>nemy, will be pleaſed to Repreſent theſe things which we have herein laid before Your High<g ref="char:EOLhyphen"/>neſs, to the Parliament, with our Humble De<g ref="char:EOLhyphen"/>ſire and Prayer, that a ſpeedy Supply be made for the Armies, that their paſt Arrear may be ſatisfied, and care taken for their conſtant fu<g ref="char:EOLhyphen"/>ture Pay, ſo long as it ſhall be thought fit to con<g ref="char:EOLhyphen"/>tinue them; as alſo that ſatisfaction be given to the Militia Forces, and that there may be ſuch a Publick Aſſerting of our <hi>good old Cauſe,</hi> and Ju<g ref="char:EOLhyphen"/>ſtification and confirmation of all proceedings in Proſecution and Maintenance thereof, and Declaration againſt its Enemies, as may for the future deter all perſons from Speaking or Attempting any thing to the prejudice there<g ref="char:EOLhyphen"/>of, or of the perſons that have Acted in Proſe<g ref="char:EOLhyphen"/>cution of it, and afford preſent ſecurity to the Civil and Religious Rights and Liberties of theſe Nations, and the Peace thereof; And that the Liberty of Good and Well-affected People, in repairing with Freedome to their Meetings for the Worſhip of God, (of late much Violated by Inditing and Impriſoning many of their Perſons) may be ſtill Aſſerted and Vindicated.</p>
+         </div>
+      </body>
+      <back>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:51579:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <head>The Printer to the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THis Repreſentation was agreed on and Signed by all the Officers both Great and Small, that are in or near <hi>London,</hi> not one diſſenting, whoſe names ſhould have been herewith Printed, but that they could not be written our in time: It was likewiſe preſented to His Highneſs the 6th of <hi>April,</hi> 1659. by the Right Honourable the Lord <hi>Charles Fleetwood,</hi> attended with the reſt of the General Council of Officers, and was moſt graciouſly accepted by His Highneſs, who expreſſed himſelf with much affection towards both it and them.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
